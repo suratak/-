@@ -1,0 +1,6 @@
+{
+  "name": "اکسسوری ماه",
+  "description": "سامانه مدیریت انبار کالاها، حسابداری خودکار، صدور فاکتورهای آنلاین همگام با درگاه پرداخت مستقیم شبیه‌ساز، همکاران و سطوح دسترسی، فیش سود و زیان و خروجی اکسل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
